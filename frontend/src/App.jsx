@@ -1,5 +1,5 @@
 import { EstoqueProvider } from "./context/EstoqueContext";
-import FormProduto from "./componentsFormProduto";
+import FormProduto from "./components/FormProduto";
 import TabelaProdutos from "./components/TabelaProdutos.jsx";
 
 export default function Aoo(){
